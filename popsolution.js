@@ -63,11 +63,11 @@ choice7[2]="George chose to live off-campus with relatives instead of in the dor
 choice7[3]="When going home to Orlando for break, George was warned to avoid driving through the Ocala National Forest due to an increased KKK presence."
 choice7[4]="All of the above."
 
-question[8]="Daphne Duval Williams, also made history as Florida’s first female African-American student when she enrolled in UF’s College of Education in January 1959. What is unique about her story?"
+question[8]="Daphne Duval Williams also made history as Florida’s first female African-American student when she enrolled in UF’s College of Education in January 1959. What is unique about her story?"
 choice8[1]="She had never lived in Florida before."
 choice8[2]="She later became the Vice Principal for the all-Black Lincoln High School here in Gainesville."
 choice8[3]="She was George Starke's cousin."
-choice8[4]="Both C and D"
+choice8[4]="Both C and B"
 
 question[9]="In 1962, UF admitted six Black undergraduate students and in 1965 Stephen Mickle was the first Black student to earn his undergraduate degree from UF. Mickle became trailblazer in his future as the:"
 choice9[1]="first Black county judge in Alachua County"
